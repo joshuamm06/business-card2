@@ -1,0 +1,49 @@
+.main {
+    display: block;
+}
+.profile {
+    border: 5px solid gold;
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+.name {
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+.latest {
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+.contact {
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.finish {
+    border-radius: 10px;
+    padding: 3px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.p {
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+.body {
+    width: 300px;
+}
